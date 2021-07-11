@@ -3,9 +3,9 @@
 Cet ensemble de données contient des données anonymes provenant de patients vus à l'Hospital Israelita Albert Einstein, à São Paulo, au Brésil, et dont les échantillons ont été prélevés pour effectuer le test covid19 SRAS-CoV-2.
 
 L'objectif est de prédire les cas confirmés de COVID-19 parmi les cas suspects en se basant sur les résultats des tests de laboratoire.
-Vous trouvez dans le notebook "covid19.ipynb" le cycle de vie complet de la préparation des données, de la création et de l'évaluation du modèle.
+Vous trouvez dans le notebook __covid19.ipynb__ le cycle de vie complet de la préparation des données, de la création et de l'évaluation du modèle.
 
-Dans le fichier "app.py" vous trouvez le code écrit pour le déploiment du modèle.
+Dans le fichier __app.py__ vous trouvez le code écrit pour le déploiment du modèle.
 
 Vous trouvez la page web construite pour le déploiement du modèle à l'adresse suivante http://covid19-pred.herokuapp.com/
 

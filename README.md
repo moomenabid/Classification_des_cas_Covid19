@@ -1,6 +1,6 @@
 # Covid19
 
-Cet ensemble de données contient des données anonymes provenant de patients vus à l'Hospital Israelita Albert Einstein, à São Paulo, au Brésil, et dont les échantillons ont été prélevés pour effectuer le test covid19 SRAS-CoV-2.
+Cet ensemble de données contient des données anonymes provenant de patients dans un hôpital et dont les échantillons ont été prélevés pour effectuer le test covid19 SRAS-CoV-2.
 
 L'objectif est de prédire les cas confirmés de COVID-19 parmi les cas suspects en se basant sur les résultats des tests de laboratoire.
 Vous trouvez dans le notebook __covid19.ipynb__ le cycle de vie complet de la préparation des données, de la création et de l'évaluation du modèle.

@@ -15,7 +15,7 @@ Exemple de données que vous pouvez fournir pour obtenir un cas positif au covid
 
 Patient age quantile:19/Hematocrit:-0.495919/Hemoglobin:-0.6489/Platelets:-1.635414/Mean platelet volume:	0.683835/Red blood Cells:-0.973448/Lymphocytes:0.292779/ean corpuscular hemoglobin concentration (MCHC):-0.751633/Leukocytes:-0.406283/Basophils:-0.529226/Mean corpuscular hemoglobin (MCH):0.700891/Eosinophils:-0.70909/Mean corpuscular volume (MCV):1.187699/Monocytes:-0.141454/Red blood cell distribution width (RDW):-0.625073/est malade:0
 
-Si vous entrez d'autres données vous allez probablement tomber sur un cas négatif.
+Si vous faites entrer d'autres données vous allez probablement tomber sur un cas négatif.
 
 
 

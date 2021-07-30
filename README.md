@@ -1,6 +1,7 @@
 # Covid19
 
 __# Problème de classification__
+
 __# modèles testés: KNN, SVM, Adaboost, RandomForrest__
 
 Cet ensemble de données contient des données anonymes provenant de patients dans un hôpital et dont les échantillons ont été prélevés pour effectuer le test covid19 SRAS-CoV-2.

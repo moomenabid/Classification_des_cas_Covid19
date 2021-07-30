@@ -1,5 +1,7 @@
 # Covid19
 
+__# Problème de classification__
+
 Cet ensemble de données contient des données anonymes provenant de patients dans un hôpital et dont les échantillons ont été prélevés pour effectuer le test covid19 SRAS-CoV-2.
 
 L'objectif est de prédire les cas confirmés de COVID-19 parmi les cas suspects en se basant sur les résultats des tests de laboratoire.

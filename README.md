@@ -1,4 +1,4 @@
-# Covid19
+# Classification des cas Covid19
 
 __# Problème de classification__  
 __# Analyse exploratoire des données (EDA)__  
